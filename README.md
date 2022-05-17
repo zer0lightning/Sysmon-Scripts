@@ -5,3 +5,6 @@ Powershell Install Script
 
 Sysmon Secured Configuration
 - https://github.com/SwiftOnSecurity/sysmon-config
+
+Sysmon Fork
+- https://github.com/Neo23x0/sysmon-config
